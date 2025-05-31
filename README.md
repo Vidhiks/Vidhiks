@@ -62,9 +62,6 @@
   
 [![Vidhi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vidhiks&theme=react&hide_border=false&show_icons=true&count_private=true)](https://github.com/Vidhiks)
   
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Vidhiks&theme=react&hide_border=false)](https://git.io/streak-stats)
-  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vidhiks&theme=react&hide_border=false&layout=compact&langs_count=8)](https://github.com/Vidhiks)
 
 </div>
 
